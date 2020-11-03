@@ -1,0 +1,13 @@
+{
+    "name": "aws-manual-lambda",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "build": "webpack --mode production"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.693.0",
+        "webpack": "4.44.1",
+        "webpack-cli": "3.3.12"
+    }
+}
