@@ -9,3 +9,5 @@ InfrastructureStack(app, 'dev-aws-cdk-api-lambda-flask', env=core.Environment(ac
 InfrastructureStack(app, 'prod-aws-cdk-api-lambda-flask', env=core.Environment(account='', region='us-east-1'))
 
 app.synth()
+AKIA4BZWWJV767VMU3A6
+oRFsaMqdfpJS3Xr6kvPVitN4A1wktNnZXiYzv6EL

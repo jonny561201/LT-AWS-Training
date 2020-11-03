@@ -3,3 +3,4 @@ venv/
 .idea
 **__pycache__
 cdk.out
+.DS_Store
